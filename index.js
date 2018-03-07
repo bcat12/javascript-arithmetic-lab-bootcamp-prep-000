@@ -1,5 +1,5 @@
 function makeint(n){
-  return parseInt( n, 10)
+  return parseInt( n)
    if n= NaN
     return "NaN"
 }
