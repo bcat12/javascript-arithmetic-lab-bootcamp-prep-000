@@ -1,7 +1,5 @@
 function makeint(n){
-  return parseInt( n)
-   if n= NaN
-    return "NaN"
+  return parseInt(n , 10)
 }
 
 function preserveDecimal(n){
